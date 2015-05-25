@@ -1,0 +1,28 @@
+{
+  "name": "nebbula-node",
+  "version": "1.0.0",
+  "description": "Nebbula Node module",
+  "main": "src/main.js",
+  "directories": {
+    "src": "src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Nebbula/nebbula-node.git"
+  },
+  "keywords": [
+    "util",
+    "nebbula",
+    "node"
+  ],
+  "author": "Giovanny Andres Gongora Granada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nebbula/nebbula-node/issues"
+  },
+  "dependencies": {
+    "nebbula-error": "1.x",
+    "nebbula-tree": "1.x",
+    "nebbula-parser": "1.x"
+  }
+}
